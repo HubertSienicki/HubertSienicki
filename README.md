@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hubert Sienicki</h1>
-<h3 align="center">I'm a learning developer who tries their best in developing projects.</h3>
+<h3 align="center">I'm a learning developer who tries their best to learn and explore computer science...</h3>
 
-- 🔭 I’m currently working on [Java-coffee-shop](https://github.com/HubertSienicki/JavaCoffeeShop)
+- 🔭 I’m currently working on 
+- - [Java-coffee-shop](https://github.com/HubertSienicki/JavaCoffeeShop)
+- - [NEXTTOKEN-Smart contract](https://github.com/HubertSienicki/Etherum-Blockchain-Token-NEXT)
+- - [Personal-portfolio-website](https://github.com/HubertSienicki/Personal-portfolio-website)
+- - [Stock-visualiser-with-ML](https://github.com/HubertSienicki/Stock-Visualizer-With-ML)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HubertSienicki](https://github.com/HubertSienicki)
 
