@@ -7,6 +7,8 @@
 - - [Personal-portfolio-website](https://github.com/HubertSienicki/Personal-portfolio-website)
 - - [Stock-visualiser-with-ML](https://github.com/HubertSienicki/Stock-Visualizer-With-ML)
 - - [chess-game](https://github.com/HubertSienicki/chess-game)
+- - [matrix-operations-library](https://github.com/HubertSienicki/matrix-operations-library)
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/HubertSienicki](https://github.com/HubertSienicki)
 
