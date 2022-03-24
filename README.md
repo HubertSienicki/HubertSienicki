@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hubert Sienicki</h1>
+<h1 align="center">Hi 👋, I'm Hubert</h1>
 <h3 align="center">I'm an aspiring developer who tries their best to learn and explore the field of computer science, programming and cybersecurity ...</h3>
 
 - 🔭 I’m currently working on 
