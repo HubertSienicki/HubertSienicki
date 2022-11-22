@@ -8,15 +8,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hubertsienicki&" alt="hubertsienicki" /></p>
 
 - 🔭 I’m currently working on 
-- - [library-management-system](https://github.com/HubertSienicki/library-management-system)
-- - [NEXTTOKEN-Smart contract](https://github.com/HubertSienicki/Etherum-Blockchain-Token-NEXT)
-- - [Personal-portfolio-website](https://github.com/HubertSienicki/Personal-portfolio-website)
-- - [Stock-visualiser-with-ML](https://github.com/HubertSienicki/Stock-Visualizer-With-ML)
 - - [chess-game](https://github.com/HubertSienicki/chess-game)
 - - [matrix-operations-library](https://github.com/HubertSienicki/matrix-operations-library)
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/HubertSienicki](https://github.com/HubertSienicki)
 
 - 📫 How to reach me **businesssienicki@gmail.com**
 
