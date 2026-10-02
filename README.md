@@ -1,15 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hubert</h1>
-<h3 align="center">I'm an aspiring developer who tries their best to learn and explore the field of computer science, programming and cybersecurity ...</h3>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hubertsienicki&show_icons=true&locale=en&layout=compact" alt="hubertsienicki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hubertsienicki&show_icons=true&locale=en" alt="hubertsienicki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hubertsienicki&" alt="hubertsienicki" /></p>
-
-- 🔭 I’m currently working on 
-- - [chess-game](https://github.com/HubertSienicki/chess-game)
-- - [matrix-operations-library](https://github.com/HubertSienicki/matrix-operations-library)
 
 - 📫 How to reach me **businesssienicki@gmail.com**
 
