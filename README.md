@@ -4,7 +4,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hubertsienicki&" alt="hubertsienicki" /></p>
 
-- 📫 How to reach me **businesssienicki@gmail.com**
+- 📫 How to reach me **hubsienicki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
